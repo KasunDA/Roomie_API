@@ -5,7 +5,7 @@ Roomie is a social apartment-search portal, connecting between people looking fo
 
 ## Getting started...
 1. Clone the project:<br/>
-`git clone https://github.com/galtadmor/roomie_api.git`
+`git clone https://github.com/galtadmor/API.git`
 
 2. Install all of the node-modules:<br/>
 `npm install`
