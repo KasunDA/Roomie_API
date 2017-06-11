@@ -25,7 +25,7 @@ Roomie is a social apartment-search portal, connecting between people looking fo
 3. Run the startup script:<br/>
 `nodemon`
 
-4. The backend is now running on port 8080.
+4. The back-end will run on port 8080.
 
 ## Owner and Copyrights
 © Gal Tadmor 2017<br/>
