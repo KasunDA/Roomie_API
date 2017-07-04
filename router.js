@@ -5,7 +5,7 @@ const path = require('path');
 const helper = require(__dirname + '/helper.js')
 
 // Constants
-const allowedOrigins = ['http://localhost:4200', 'https://getroomie-web.herokuapp.com/', 'http://galta.co.il/'];
+const allowedOrigins = ['http://localhost:4200', 'https://getroomie-web.herokuapp.com', 'http://galta.co.il'];
 const cdnUrl = "./uploads/";
 const getLimit = 20;
 
