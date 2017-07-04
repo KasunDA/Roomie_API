@@ -14,6 +14,7 @@ Roomie is a social apartment-search portal, connecting between people looking fo
 ## Prerequisites
 1. NodeJS@6.10.1 - https://nodejs.org/
 2. Git@2.8.1 - https://git-scm.com/
+3. AngularCLI@1.0.0 - https://cli.angular.io/
 
 ## Getting started...
 1. Clone the project:<br/>

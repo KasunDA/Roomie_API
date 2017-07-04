@@ -2,20 +2,18 @@
   "name": "roomie",
   "version": "1.0.0",
   "description": "Roomie - Let's find your new home. Together.",
-  "main": "server.js",
+  "license": "ISC",
+  "keywords": ["roomie","apartment","apartments","home","roomates","housemates"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galtadmor/Web"
+  },
+  "private": true,
+  "author": "Gal Tadmor",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "roomie",
-    "apartment",
-    "apartments",
-    "home",
-    "roomates",
-    "housemates"
-  ],
-  "author": "Gal Tadmor",
-  "license": "ISC",
+  "main": "server.js",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.2",

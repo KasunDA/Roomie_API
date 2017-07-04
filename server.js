@@ -23,9 +23,9 @@ app.use(bodyParser.urlencoded({extended:true}));
 mongoose.Promise = global.Promise;
 mongoose.connect(db, function(err, res){
 	if(err){
-		console.log('Failed to connect to ' + db);
+		console.log('Failed to connect to database');
 	}else{
-		console.log('Connected to ' + db);
+		console.log('Connected to database');
 	}
 });
 
